@@ -10,7 +10,9 @@ This project aims to analyze and predict energy consumption and greenhouse gas (
 The dataset used in this project includes detailed information on buildings in Seattle, encompassing residential and non-residential types. Key features include building size, location (latitude and longitude), and energy usage statistics. Two main target variables were analyzed:
 
 1. **Site Energy Use WN (Kbtu)**: Annual energy consumption of the property, adjusted for weather conditions.
-2. **Total GHG Emissions**: Total greenhouse gas emissions in metric tons of CO2 equivalent.
+   ![visu_target1](Docs/target1_siteEU.png)
+3. **Total GHG Emissions**: Total greenhouse gas emissions in metric tons of CO2 equivalent.
+   ![visu_target2](Docs/target2_totalGHG_emissions.png)
 
 ## Exploratory Data Analysis (EDA)
 
