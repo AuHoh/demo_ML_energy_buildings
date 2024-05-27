@@ -60,7 +60,7 @@ The project successfully demonstrated the importance of feature engineering and 
 1. **Clone the repository**: `git clone <repo_url>`
 2. **Install dependencies**: `pip install -r requirements.txt`
 3. **Run the Jupyter notebook**: `jupyter notebook`
-4. **Follow the steps in the notebook to load data, perform analysis, and run models`
+4. **Follow the steps in the notebook to load data, perform analysis, and run models`**
 
 ## License
 
@@ -70,3 +70,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - This project was completed as part of a data science training program.
 - Special thanks to the instructors and peers for their valuable feedback and support.
+
+## Author
+Audrey Hohmann, OpenclassRoom student : Data Scientist training path
