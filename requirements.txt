@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+missingno
+geopandas
+folium
+mapclassify
+scikit-learn
